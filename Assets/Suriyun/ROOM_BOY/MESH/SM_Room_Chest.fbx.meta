@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 17b4ada9c97e91f4281780b0d19c7ed7
+timeCreated: 1502973540
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bas_Charniere
+    100002: Bas_Coffre
+    100004: Cadenas
+    100006: //RootNode
+    100008: group3
+    100010: Haut_Cadenas
+    100012: Haut_Charniere
+    100014: Haut_Coffre1
+    100016: Bottom_Chest
+    100018: Bottom_Hinge
+    100020: Bottom_Padlock
+    100022: Top_Chest
+    100024: Top_Chest 1
+    100026: Top_Hinge
+    100028: Top_Padlock
+    400000: Bas_Charniere
+    400002: Bas_Coffre
+    400004: Cadenas
+    400006: //RootNode
+    400008: group3
+    400010: Haut_Cadenas
+    400012: Haut_Charniere
+    400014: Haut_Coffre1
+    400016: Bottom_Chest
+    400018: Bottom_Hinge
+    400020: Bottom_Padlock
+    400022: Top_Chest
+    400024: Top_Chest 1
+    400026: Top_Hinge
+    400028: Top_Padlock
+    2300000: Bas_Charniere
+    2300002: Bas_Coffre
+    2300004: Cadenas
+    2300006: Haut_Cadenas
+    2300008: Haut_Charniere
+    2300010: Haut_Coffre1
+    2300012: Bottom_Chest
+    2300014: Bottom_Hinge
+    2300016: Bottom_Padlock
+    2300018: Top_Chest 1
+    2300020: Top_Hinge
+    2300022: Top_Padlock
+    2300024: Top_Chest
+    3300000: Bas_Charniere
+    3300002: Bas_Coffre
+    3300004: Cadenas
+    3300006: Haut_Cadenas
+    3300008: Haut_Charniere
+    3300010: Haut_Coffre1
+    3300012: Bottom_Chest
+    3300014: Bottom_Hinge
+    3300016: Bottom_Padlock
+    3300018: Top_Chest 1
+    3300020: Top_Hinge
+    3300022: Top_Padlock
+    3300024: Top_Chest
+    4300000: Bas_Coffre
+    4300002: Haut_Cadenas
+    4300004: Cadenas
+    4300006: Bas_Charniere
+    4300008: Haut_Coffre1
+    4300010: Haut_Charniere
+    4300012: Bottom_Chest
+    4300014: Top_Padlock
+    4300016: Bottom_Padlock
+    4300018: Bottom_Hinge
+    4300020: Top_Chest
+    4300022: Top_Hinge
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

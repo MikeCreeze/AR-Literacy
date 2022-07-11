@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hua" size="0.500000 0.374449" />
+    <ImageTarget name="niao" size="0.500000 0.514134" />
+    <ImageTarget name="hu" size="0.500000 0.514134" />
+    <ImageTarget name="hou" size="0.500000 0.374449" />
+    <ImageTarget name="deng" size="0.500000 0.514134" />
+    <ImageTarget name="bi" size="0.500000 0.514134" />
+    <ImageTarget name="niu" size="0.500000 0.514134" />
+    <ImageTarget name="yi" size="0.500000 0.514134" />
+    <ImageTarget name="gui" size="0.500000 0.374449" />
+    <ImageTarget name="chuang" size="0.500000 0.514134" />
+  </Tracking>
+</QCARConfig>
